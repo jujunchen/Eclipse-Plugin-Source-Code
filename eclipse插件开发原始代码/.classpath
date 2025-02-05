@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="chapter10/com.plugindev.addressbook/src"/>
+	<classpathentry kind="src" path="chapter11/com.plugindev.addressbook/src"/>
+	<classpathentry kind="src" path="chapter12/com.plugindev.addressbook/src"/>
+	<classpathentry kind="src" path="chapter13/com.plugindev.addressbook/src"/>
+	<classpathentry kind="src" path="chapter14/com.plugindev.addressbook/src"/>
+	<classpathentry kind="src" path="chapter15/com.plugindev.addressbook/src"/>
+	<classpathentry kind="src" path="chapter16/com.plugindev.addressbook/src"/>
+	<classpathentry kind="src" path="chapter17/com.plugindev.addressbook/src"/>
+	<classpathentry kind="src" path="chapter1-8/ch1-8"/>
+	<classpathentry kind="src" path="chapter18/com.plugindev.addressbook/src"/>
+	<classpathentry kind="src" path="chapter19/com.plugindev.addressbook/src"/>
+	<classpathentry kind="src" path="chapter20/com.plugindev.rcp/src"/>
+	<classpathentry kind="src" path="chapter20/rcpdev.rcpdemo/src"/>
+	<classpathentry kind="src" path="chapter21/HelloDraw2d/src"/>
+	<classpathentry kind="src" path="chapter22/HelloGEF/src"/>
+	<classpathentry kind="src" path="chapter23/ch23/rcpdev.adapter/src"/>
+	<classpathentry kind="src" path="chapter23/ch23/rcpdev.application/src"/>
+	<classpathentry kind="src" path="chapter23/ch23/rcpdev.common.core/src"/>
+	<classpathentry kind="src" path="chapter23/ch23/rcpdev.common.ui/src"/>
+	<classpathentry kind="src" path="chapter23/ch23/rcpdev.contact.core/src"/>
+	<classpathentry kind="src" path="chapter23/ch23/rcpdev.contact.persistence/src"/>
+	<classpathentry kind="src" path="chapter23/ch23/rcpdev.contact.ui/src"/>
+	<classpathentry kind="src" path="chapter23/ch23/rcpdev.thirdparty/src"/>
+	<classpathentry kind="src" path="chapter23/ch23/rcpdev.todo.core/src"/>
+	<classpathentry kind="src" path="chapter23/ch23/rcpdev.todo.persistence/src"/>
+	<classpathentry kind="src" path="chapter23/ch23/rcpdev.todo.ui/src"/>
+	<classpathentry kind="src" path="chapter24/GefExample/src"/>
+	<classpathentry kind="lib" path="chapter23/ch23/rcpdev.thirdparty/commons-jxpath-1.2.jar"/>
+	<classpathentry kind="lib" path="chapter23/ch23/rcpdev.thirdparty/mysql-connector-java-3.0.15-ga-bin.jar"/>
+	<classpathentry kind="lib" path="chapter23/ch23/rcpdev.thirdparty/toplink.jar"/>
+	<classpathentry kind="output" path="chapter10/com.plugindev.addressbook/bin"/>
+</classpath>
